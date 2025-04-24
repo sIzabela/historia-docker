@@ -1,0 +1,57 @@
+2025-02-16 18:39:55 - SH7755F - Błąd podczas pobierania JSON: 'Page' object has no attribute 'wait_for_response'
+2025-02-16 18:44:07 - SH7755F - Błąd przy parsowaniu JSON: 'EventContextManager' object has no attribute 'json'
+2025-02-16 18:44:10 - SH7758F - Błąd przy parsowaniu JSON: 'EventContextManager' object has no attribute 'json'
+2025-02-16 18:44:10 - Future exception was never retrieved
+future: <Future finished exception=Error('Target page, context or browser has been closed')>
+playwright._impl._errors.Error: Target page, context or browser has been closed
+2025-02-16 18:44:10 - Future exception was never retrieved
+future: <Future finished exception=Error('Target page, context or browser has been closed')>
+playwright._impl._errors.Error: Target page, context or browser has been closed
+2025-02-16 18:46:26 - SH7755F - Otrzymano dane JSON.
+2025-02-16 18:46:29 - SH7758F - Otrzymano dane JSON.
+2025-02-16 18:55:32 - SH7755F - Błąd podczas pobierania danych: Timeout 2000ms exceeded while waiting for event "response"
+=========================== logs ===========================
+waiting for event "response"
+============================================================
+2025-02-16 18:55:52 - SH7755F - Błąd podczas pobierania danych: Timeout 3000ms exceeded while waiting for event "response"
+=========================== logs ===========================
+waiting for event "response"
+============================================================
+2025-02-16 18:56:44 - SH7755F - Otrzymano dane JSON.
+2025-02-16 18:56:48 - SH7758F - Otrzymano dane JSON.
+2025-02-16 19:02:11 - SH7755F - Otrzymano dane JSON.
+2025-02-16 19:02:11 - SH7755F - Otrzymano dane JSON z timeline-data.
+2025-02-16 19:02:15 - SH7758F - Otrzymano dane JSON.
+2025-02-16 19:02:15 - SH7758F - Nie pobieramy timeline-data, ponieważ pojazd nie został znaleziony.
+2025-02-16 21:43:26 - SH7755F - Otrzymano dane.
+2025-02-16 21:43:26 - SH7755F - Otrzymano dane JSON z timeline-data.
+2025-02-16 21:43:29 - SH7758F - Otrzymano dane.
+2025-02-16 21:43:29 - SH7758F - W bazie danych nie istnieje pojazd o podanych parametrach.
+2025-02-16 21:43:34 - WJ1478G - Otrzymano dane.
+2025-02-16 21:43:34 - WJ1478G - Otrzymano dane JSON z timeline-data.
+2025-02-16 21:43:37 - GS61124 - Otrzymano dane.
+2025-02-16 21:43:38 - GS61124 - Otrzymano dane JSON z timeline-data.
+2025-02-16 22:05:45 - SH7755F - Otrzymano dane.
+2025-02-16 22:05:45 - SH7755F - Otrzymano dane JSON z timeline-data.
+2025-02-16 22:07:13 - SH7755F - Otrzymano dane.
+2025-02-16 22:07:13 - SH7755F - Otrzymano dane JSON z timeline-data.
+2025-02-16 22:07:16 - SH7758F - Otrzymano dane.
+2025-02-16 22:07:16 - SH7758F - W bazie danych nie istnieje pojazd o podanych parametrach.
+2025-02-16 22:08:02 - SH7755F - Otrzymano dane.
+2025-02-16 22:08:03 - SH7755F - Otrzymano dane JSON z timeline-data.
+2025-02-16 22:08:06 - SH7758F - Otrzymano dane.
+2025-02-16 22:08:06 - SH7758F - W bazie danych nie istnieje pojazd o podanych parametrach.
+2025-02-16 22:08:09 - WJ1478G - Otrzymano dane.
+2025-02-16 22:08:09 - WJ1478G - Otrzymano dane JSON z timeline-data.
+2025-02-16 22:08:12 - GS61124 - Otrzymano dane.
+2025-02-16 22:08:12 - GS61124 - Otrzymano dane JSON z timeline-data.
+2025-02-16 22:27:45 - SH7755F - Otrzymano dane.
+2025-02-16 22:27:45 - SH7755F - Otrzymano dane JSON z timeline-data.
+2025-02-16 22:27:48 - SH7758F - Otrzymano dane.
+2025-02-16 22:27:48 - SH7758F - W bazie danych nie istnieje pojazd o podanych parametrach.
+2025-02-16 22:27:51 - WJ1478G - Otrzymano dane.
+2025-02-16 22:27:51 - WJ1478G - Otrzymano dane JSON z timeline-data.
+2025-02-16 22:27:54 - GS61124 - Otrzymano dane.
+2025-02-16 22:27:54 - GS61124 - Otrzymano dane JSON z timeline-data.
+2025-02-16 23:31:26 - SH7755F - Otrzymano dane.
+2025-02-16 23:31:27 - SH7755F - Otrzymano dane JSON z timeline-data.

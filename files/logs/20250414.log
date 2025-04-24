@@ -1,0 +1,131 @@
+2025-04-14 13:36:04 - Rozpoczynam prace tryb DEBUG: True
+2025-04-14 13:36:04 - Plik wejsciowy: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414Pusty.xlsx
+2025-04-14 13:36:04 - Plik wynikowy: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414.xlsx
+2025-04-14 13:36:04 - Plik koncowy: RaportDaneABP14_20250414Koncowy.xlsx
+2025-04-14 13:36:04 - Zapis raportów gov do istniejącego folderu: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/daneJSON_20250414
+2025-04-14 13:36:04 - Pobieranie raportu z bazy danych
+2025-04-14 13:36:04 - Plik /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414Pusty.xlsx już istnieje.
+2025-04-14 13:36:04 -           SYGNATURA                  DATA_ZAWARCIA    POJEMNOSC         MOC     POCZATEK_OCHRONY       KONIEC_OCHRONY  ...  info_BADANIE_TECHNICZNE  info_ZMIANY_WLASCICIELA  info_WSPOLWLASCICIEL  PODSUMOWANIE  UWAGI  DATA_RAPORTU
+count  6.880000e+02                            688   688.000000  688.000000                  688                  688  ...                      0.0                      0.0                   0.0           0.0    0.0           0.0
+mean   2.116303e+07  2025-03-23 00:58:36.279069696  1634.838663   79.840116  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+min    2.109431e+07            2025-03-01 00:00:00   796.000000   30.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+25%    2.110975e+07            2025-03-18 00:00:00  1390.000000   65.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+50%    2.117237e+07            2025-03-25 12:00:00  1598.000000   77.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+75%    2.120405e+07            2025-03-31 00:00:00  1896.000000   92.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+max    2.123346e+07            2025-04-04 00:00:00  4511.000000  250.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+std    4.644691e+04                            NaN   371.085071   24.841987                  NaN                  NaN  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+
+[8 rows x 31 columns]
+2025-04-14 13:36:04 - 
+========================================
+
+2025-04-14 13:36:04 -    SYGNATURA DATA_PIERWSZEJ_REJESTRACJI NR_REJESTRACYJNY                VIN             RODZAJ_UMOWY DATA_ZAWARCIA  ... info_BADANIE_TECHNICZNE info_ZMIANY_WLASCICIELA  info_WSPOLWLASCICIEL  PODSUMOWANIE UWAGI DATA_RAPORTU
+0   21094321                 2002-04-22         LPU59049  VF1KA1H0526539349  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+1   21094377                 1998-04-02          DKL2JS8  WVWZZZ1JZWB042931  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+2   21094461                 2012-10-05         PGN420HK  W0LPF8EX6D8006232  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+
+[3 rows x 41 columns]
+2025-04-14 13:36:04 - ========================================
+2025-04-14 13:36:04 - Ilość rekordow do przeprocesowania: 688
+2025-04-14 13:36:05 - Otwieram przeglądarkę
+2025-04-14 13:36:54 - Rozpoczynam prace tryb DEBUG: True
+2025-04-14 13:36:54 - Plik wejsciowy: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414Pusty.xlsx
+2025-04-14 13:36:54 - Plik wynikowy: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414.xlsx
+2025-04-14 13:36:54 - Plik koncowy: RaportDaneABP14_20250414Koncowy.xlsx
+2025-04-14 13:36:54 - Zapis raportów gov do istniejącego folderu: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/daneJSON_20250414
+2025-04-14 13:36:54 - Pobieranie raportu z bazy danych
+2025-04-14 13:36:54 - Plik /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414Pusty.xlsx już istnieje.
+2025-04-14 13:36:54 -           SYGNATURA                  DATA_ZAWARCIA    POJEMNOSC         MOC     POCZATEK_OCHRONY       KONIEC_OCHRONY  ...  info_BADANIE_TECHNICZNE  info_ZMIANY_WLASCICIELA  info_WSPOLWLASCICIEL  PODSUMOWANIE  UWAGI  DATA_RAPORTU
+count  6.880000e+02                            688   688.000000  688.000000                  688                  688  ...                      0.0                      0.0                   0.0           0.0    0.0           0.0
+mean   2.116303e+07  2025-03-23 00:58:36.279069696  1634.838663   79.840116  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+min    2.109431e+07            2025-03-01 00:00:00   796.000000   30.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+25%    2.110975e+07            2025-03-18 00:00:00  1390.000000   65.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+50%    2.117237e+07            2025-03-25 12:00:00  1598.000000   77.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+75%    2.120405e+07            2025-03-31 00:00:00  1896.000000   92.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+max    2.123346e+07            2025-04-04 00:00:00  4511.000000  250.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+std    4.644691e+04                            NaN   371.085071   24.841987                  NaN                  NaN  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+
+[8 rows x 31 columns]
+2025-04-14 13:36:54 - 
+========================================
+
+2025-04-14 13:36:54 -    SYGNATURA DATA_PIERWSZEJ_REJESTRACJI NR_REJESTRACYJNY                VIN             RODZAJ_UMOWY DATA_ZAWARCIA  ... info_BADANIE_TECHNICZNE info_ZMIANY_WLASCICIELA  info_WSPOLWLASCICIEL  PODSUMOWANIE UWAGI DATA_RAPORTU
+0   21094321                 2002-04-22         LPU59049  VF1KA1H0526539349  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+1   21094377                 1998-04-02          DKL2JS8  WVWZZZ1JZWB042931  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+2   21094461                 2012-10-05         PGN420HK  W0LPF8EX6D8006232  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+
+[3 rows x 41 columns]
+2025-04-14 13:36:54 - ========================================
+2025-04-14 13:36:54 - Ilość rekordow do przeprocesowania: 688
+2025-04-14 13:36:54 - Otwieram przeglądarkę
+2025-04-14 13:38:01 - Rozpoczynam prace tryb DEBUG: True
+2025-04-14 13:38:01 - Plik wejsciowy: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414Pusty.xlsx
+2025-04-14 13:38:01 - Plik wynikowy: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414.xlsx
+2025-04-14 13:38:01 - Plik koncowy: RaportDaneABP14_20250414Koncowy.xlsx
+2025-04-14 13:38:01 - Zapis raportów gov do istniejącego folderu: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/daneJSON_20250414
+2025-04-14 13:38:01 - Pobieranie raportu z bazy danych
+2025-04-14 13:38:01 - Plik /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414Pusty.xlsx już istnieje.
+2025-04-14 13:38:01 -           SYGNATURA                  DATA_ZAWARCIA    POJEMNOSC         MOC     POCZATEK_OCHRONY       KONIEC_OCHRONY  ...  info_BADANIE_TECHNICZNE  info_ZMIANY_WLASCICIELA  info_WSPOLWLASCICIEL  PODSUMOWANIE  UWAGI  DATA_RAPORTU
+count  6.880000e+02                            688   688.000000  688.000000                  688                  688  ...                      0.0                      0.0                   0.0           0.0    0.0           0.0
+mean   2.116303e+07  2025-03-23 00:58:36.279069696  1634.838663   79.840116  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+min    2.109431e+07            2025-03-01 00:00:00   796.000000   30.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+25%    2.110975e+07            2025-03-18 00:00:00  1390.000000   65.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+50%    2.117237e+07            2025-03-25 12:00:00  1598.000000   77.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+75%    2.120405e+07            2025-03-31 00:00:00  1896.000000   92.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+max    2.123346e+07            2025-04-04 00:00:00  4511.000000  250.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+std    4.644691e+04                            NaN   371.085071   24.841987                  NaN                  NaN  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+
+[8 rows x 31 columns]
+2025-04-14 13:38:02 - 
+========================================
+
+2025-04-14 13:38:02 -    SYGNATURA DATA_PIERWSZEJ_REJESTRACJI NR_REJESTRACYJNY                VIN             RODZAJ_UMOWY DATA_ZAWARCIA  ... info_BADANIE_TECHNICZNE info_ZMIANY_WLASCICIELA  info_WSPOLWLASCICIEL  PODSUMOWANIE UWAGI DATA_RAPORTU
+0   21094321                 2002-04-22         LPU59049  VF1KA1H0526539349  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+1   21094377                 1998-04-02          DKL2JS8  WVWZZZ1JZWB042931  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+2   21094461                 2012-10-05         PGN420HK  W0LPF8EX6D8006232  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+
+[3 rows x 41 columns]
+2025-04-14 13:38:02 - ========================================
+2025-04-14 13:38:02 - Ilość rekordow do przeprocesowania: 688
+2025-04-14 13:38:02 - Otwieram przeglądarkę
+2025-04-14 14:02:32 - Rozpoczynam prace tryb DEBUG: True
+2025-04-14 14:02:32 - Plik wejsciowy: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414Pusty.xlsx
+2025-04-14 14:02:32 - Plik wynikowy: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414.xlsx
+2025-04-14 14:02:32 - Plik koncowy: RaportDaneABP14_20250414Koncowy.xlsx
+2025-04-14 14:02:32 - Zapis raportów gov do istniejącego folderu: /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/daneJSON_20250414
+2025-04-14 14:02:32 - Pobieranie raportu z bazy danych
+2025-04-14 14:02:32 - Plik /home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/RaportDaneABP14_20250414Pusty.xlsx już istnieje.
+2025-04-14 14:02:32 -           SYGNATURA                  DATA_ZAWARCIA    POJEMNOSC         MOC     POCZATEK_OCHRONY       KONIEC_OCHRONY  ...  info_BADANIE_TECHNICZNE  info_ZMIANY_WLASCICIELA  info_WSPOLWLASCICIEL  PODSUMOWANIE  UWAGI  DATA_RAPORTU
+count  6.880000e+02                            688   688.000000  688.000000                  688                  688  ...                      0.0                      0.0                   0.0           0.0    0.0           0.0
+mean   2.116303e+07  2025-03-23 00:58:36.279069696  1634.838663   79.840116  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+min    2.109431e+07            2025-03-01 00:00:00   796.000000   30.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+25%    2.110975e+07            2025-03-18 00:00:00  1390.000000   65.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+50%    2.117237e+07            2025-03-25 12:00:00  1598.000000   77.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+75%    2.120405e+07            2025-03-31 00:00:00  1896.000000   92.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+max    2.123346e+07            2025-04-04 00:00:00  4511.000000  250.000000  2025-03-31 00:00:00  2026-03-30 00:00:00  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+std    4.644691e+04                            NaN   371.085071   24.841987                  NaN                  NaN  ...                      NaN                      NaN                   NaN           NaN    NaN           NaN
+
+[8 rows x 31 columns]
+2025-04-14 14:02:32 - 
+========================================
+
+2025-04-14 14:02:32 -    SYGNATURA DATA_PIERWSZEJ_REJESTRACJI NR_REJESTRACYJNY                VIN             RODZAJ_UMOWY DATA_ZAWARCIA  ... info_BADANIE_TECHNICZNE info_ZMIANY_WLASCICIELA  info_WSPOLWLASCICIEL  PODSUMOWANIE UWAGI DATA_RAPORTU
+0   21094321                 2002-04-22         LPU59049  VF1KA1H0526539349  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+1   21094377                 1998-04-02          DKL2JS8  WVWZZZ1JZWB042931  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+2   21094461                 2012-10-05         PGN420HK  W0LPF8EX6D8006232  Wznowienie automatyczne    2025-04-01  ...                     NaN                     NaN                   NaN           NaN   NaN          NaN
+
+[3 rows x 41 columns]
+2025-04-14 14:02:32 - ========================================
+2025-04-14 14:02:32 - Ilość rekordow do przeprocesowania: 688
+2025-04-14 14:02:32 - Otwieram przeglądarkę
+2025-04-14 14:02:33 - > LPU59049 - Otrzymano dane.
+2025-04-14 14:02:34 - > LPU59049 - Otrzymano dane JSON z timeline-data.
+2025-04-14 14:02:34 - INDEX 0 - BŁĄD: [Errno 13] Permission denied: '/home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/daneJSON_20250414//JSON_LPU59049.json'
+2025-04-14 14:02:34 - Traceback (most recent call last):
+  File "/home/iskrzycka/GITHUB/historia-docker/main.py", line 162, in <module>
+    with open(filename, 'w', encoding='utf-8') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/home/iskrzycka/WORK/UNEXT/paths/historia-14/20250414/daneJSON_20250414//JSON_LPU59049.json'
+
+2025-04-14 14:02:34 - Zamykam przeglądarkę
+2025-04-14 14:02:34 - Zapisywanie dotychczasowej pracy do plików tymczasowych...
