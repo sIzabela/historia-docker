@@ -12,8 +12,8 @@ with open('config.json') as f:
 
 def generate_dates(dni1, dni2):
     today = datetime.now()
-    dni1 = config['mail_robot']['data1']
-    dni2 = config['mail_robot']['data2']
+    dni1 = config['mail_robot']['dni1']
+    dni2 = config['mail_robot']['dni2']
     data1 = (today - timedelta(days=dni1)).strftime("%d.%m.%Y")
     data2 = (today - timedelta(days=dni2)).strftime("%d.%m.%Y")
     return data1, data2
