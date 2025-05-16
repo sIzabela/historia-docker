@@ -10,10 +10,10 @@ load_dotenv()
 with open('config.json') as f:
     config = json.load(f)
 
-def generate_dates(dni1, dni2):
+def generate_dates():
     today = datetime.now()
-    dni1 = config['mail_robot']['dni1']
-    dni2 = config['mail_robot']['dni2']
+    dni1 = int(config['mail_robot']['dni1'])
+    dni2 = int(config['mail_robot']['dni2'])
     data1 = (today - timedelta(days=dni1)).strftime("%d.%m.%Y")
     data2 = (today - timedelta(days=dni2)).strftime("%d.%m.%Y")
     return data1, data2

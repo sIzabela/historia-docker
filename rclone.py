@@ -18,20 +18,28 @@ def check_if_folder_exists(sp_path):
 def upload_to_SP(base_path, sp_path):
     paths_date = datetime.datetime.now().strftime("%Y%m%d")
     try:
-        resultMkdir = subprocess.run(['rclone', 'mkdir', f'{sp_path}' + paths_date], check=True, capture_output=True, text=True)
-        log_message(f'Folder został utworzony na SP.')
+        resultMkdir = subprocess.run(
+            ['rclone', 'mkdir', f'{sp_path}{paths_date}'],
+            check=True, capture_output=True, text=True
+        )
+        log_message('Folder został utworzony na SP.')
         try:
-            # Uruchom rclone copy
-            resultCopy = subprocess.run(['rclone', 'copy', base_path, f'{sp_path}' + paths_date, '--ignore-size', '--ignore-checksum', '--progress'], check=True, capture_output=True, text=True)
+            resultCopy = subprocess.run(
+                ['rclone', 'copy', base_path, f'{sp_path}{paths_date}', '--ignore-size', '--ignore-checksum', '--progress'],
+                check=True, capture_output=True, text=True
+            )
             log_message('Folder został przesłany na SP.')
+            return True
         except subprocess.CalledProcessError as e:
             log_message(f"Błąd podczas przesyłania folderu: {e}")
-            log_message(f"Wyjście standardowe: {e.stdout}")  # Wydrukuj standardowe wyjście
-            log_message(f"Wyjście błędów: {e.stderr}")  # Wydrukuj wyjście błędów
+            log_message(f"Wyjście standardowe: {e.stdout}")
+            log_message(f"Wyjście błędów: {e.stderr}")
+            return False
     except subprocess.CalledProcessError as e:
-        log_message(f"Bład podczas tworzenia folderu na SP: {e}")
-        log_message(f"Wyjcie standardowe: {e.stdout}")  # Wydrukuj standardowe wyjście
-        log_message(f"Wyjcie błeów: {e.stderr}")  # Wydrukuj wyjście błędów
+        log_message(f"Błąd podczas tworzenia folderu na SP: {e}")
+        log_message(f"Wyjście standardowe: {e.stdout}")
+        log_message(f"Wyjście błędów: {e.stderr}")
+        return False
 
 
 # Funkcja zmiany folderu na archiwum zip

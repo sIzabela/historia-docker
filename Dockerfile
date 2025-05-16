@@ -39,9 +39,6 @@ ENV PATH="/opt/mssql-tools18/bin:${PATH}"
 # Kopiowanie plików aplikacji do obrazu
 COPY . .
 
-# Kopiowanie pliku konfiguracyjnego dla rclone
-COPY rclone.conf /root/.config/rclone/rclone.conf
-
 # Aktualizacja pip, instalacja zależności
 RUN pip install --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt && \
